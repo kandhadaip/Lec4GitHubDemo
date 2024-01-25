@@ -10,6 +10,8 @@ public class MainActivity extends AppCompatActivity {
 
     //Another change from remote/master
 
+    //Making more changes locally
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
