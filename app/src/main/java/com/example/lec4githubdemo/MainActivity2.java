@@ -10,6 +10,8 @@ public class MainActivity2 extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         //another remote change
+
+        //change at remote on branch
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
     }
